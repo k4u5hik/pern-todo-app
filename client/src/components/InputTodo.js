@@ -4,7 +4,7 @@ const InputTodo = () => {
   const [description, setDescription] = useState("");
 
   const onSubmitForm = async e => {
-    e.preventDefault();
+    e.preventDefault(); // we don't want to refresh the page
     try {
       const body = { description };
       const response = await fetch("http://localhost:5000/todos", {
@@ -13,7 +13,7 @@ const InputTodo = () => {
         body: JSON.stringify(body)
       });
 
-      window.location = "/";
+      window.location = "/"; // refresh the page after sending the data.
     } catch (err) {
       console.error(err.message);
     }

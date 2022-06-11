@@ -6,3 +6,7 @@ https://www.youtube.com/watch?v=ldYcgPKEZC8
 
 # Note from Kaushik
  - Started & Completed - 10th June 2022
+
+Started refresher on PostgreSQL on 11th June 2022
+
+https://www.youtube.com/watch?v=qw--VYLpxG4

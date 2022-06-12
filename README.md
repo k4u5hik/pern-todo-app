@@ -4,9 +4,9 @@
 
 https://www.youtube.com/watch?v=ldYcgPKEZC8
 
-# Note from Kaushik
- - Started & Completed - 10th June 2022
+## Note from Kaushik
 
-Started refresher on PostgreSQL on 11th June 2022
+Started & Completed - 10th June 2022
 
-https://www.youtube.com/watch?v=qw--VYLpxG4
+[Started refresher on PostgreSQL on 11th June 2022](https://www.youtube.com/watch?v=qw--VYLpxG4)
+PostgreSQL [data types](https://postgrespro.com/docs/postgresql/10/datatype)
